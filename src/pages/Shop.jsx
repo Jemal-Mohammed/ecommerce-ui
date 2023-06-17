@@ -8,7 +8,7 @@ export const Shop = () => {
 
             <div className='container' style={{ minHeight: "60vh", backgroundColor: 'white' }}>
                 <div className="row justify-content-center" >
-                    <img style={{ height: "30vh", objectFit: 'cover' }} src="/src/assets/images/shop-bg.webp" alt="" />
+                    <img style={{ height: "30vh", objectFit: 'cover' }} src="/assets/images/shop-bg.webp" alt="" />
 
                 </div>
             </div>
@@ -35,7 +35,7 @@ export const Shop = () => {
 
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/shop/10.jpg' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/shop/10.jpg' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -66,7 +66,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/23.png' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/23.png' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -99,7 +99,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/shop/1.jpg' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/shop/1.jpg' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -132,7 +132,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/11.png' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/11.png' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -165,7 +165,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/shop/2.jpg' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/shop/2.jpg' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -198,7 +198,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/shop/3.jpg' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/shop/3.jpg' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -231,7 +231,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/12.png' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/12.png' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -264,7 +264,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/shop/4.jpg' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/shop/4.jpg' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">
@@ -297,7 +297,7 @@ export const Shop = () => {
                     </div>
                     <div id='card' className="col-lg-3 col-xs-6 col-md-4 col-sm-6 mb-4 mt-5"  >
                         <div className="card bg-light shadow">
-                            <img style={{ height: "230px", objectFit: "contain" }} src='/src/assets/images/10.png' className="card-img-top img-fluid" alt='{product.name}' />
+                            <img style={{ height: "230px", objectFit: "contain" }} src='/assets/images/10.png' className="card-img-top img-fluid" alt='{product.name}' />
                             <div className="card-body">
                                 <div className="row justify-content-between">
                                     <div className="col-6">

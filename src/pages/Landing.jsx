@@ -7,7 +7,7 @@ export const Landing = () => {
     <>
     <div id='landing' className='container-fluid'>
 
-      <img style={{height:"73.5vh",width:"100%",objectFit:"cover"}} className='img-fluid' src="/src/assets/images//landing.jpg" alt="" />
+      <img style={{height:"73.5vh",width:"100%",objectFit:"cover"}} className='img-fluid' src="/assets/images//landing.jpg" alt="" />
       <div   className="row justify-content-center">
       
         <div style={{position:"absolute",top:"50%",left:"25%"}}  className="col-md-6 is-visible">
