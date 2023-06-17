@@ -1,0 +1,17 @@
+
+.slider .content{
+    position: absolute;
+    top: 60px;
+}
+.slider .content h2{
+    color: blue;
+    font-size: 34px;
+    font-weight: bolder;
+  
+}
+.slider .content p{
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+     
+}
